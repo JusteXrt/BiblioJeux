@@ -36,6 +36,9 @@ git clone https://github.com/JusteXrt/BiblioJeux.git
 ### 3️⃣ **Exécuter l'application**  
 - Ouvrir le projet dans Visual Studio  
 - Compiler et exécuter  
+- Compte admin : admin:motdepasse123
+- Compte utilisateur : user:motdepasseuser
+
 
 
 ## 🤝 **Contributions**  
